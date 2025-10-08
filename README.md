@@ -8,6 +8,7 @@ It helps users stay informed with meaningful data visualization and AI-powered Q
 
 ```
 
+```
 ## 🚀 Features
 
 ✨ **Fetch Live Global News**  
@@ -30,6 +31,7 @@ It helps users stay informed with meaningful data visualization and AI-powered Q
 - View sentiment distribution, top keywords, and source frequency with **Plotly** charts.
 
 ```
+
 ```
 ## 🧰 Tech Stack
 
@@ -83,8 +85,8 @@ newspulse/
 
 ```
 
+
 ```
----
 
 ## 🔑 Environment Setup
 
@@ -96,7 +98,7 @@ GNEWS_API_KEY=your_gnews_api_key
 ```
 
 ```
----
+
 
 ## ⚙️ Installation & Usage
 
