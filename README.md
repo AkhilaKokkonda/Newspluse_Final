@@ -8,9 +8,9 @@ It helps users stay informed with meaningful data visualization and AI-powered Q
 
 ```
 
-```
-## 🚀 Features
 
+## 🚀 Features
+```
 ✨ **Fetch Live Global News**  
 - Uses **GNews API** to fetch trending articles by topic, keyword, or country.
 
@@ -32,9 +32,9 @@ It helps users stay informed with meaningful data visualization and AI-powered Q
 
 ```
 
-```
-## 🧰 Tech Stack
 
+## 🧰 Tech Stack
+```
 ### 🎨 Frontend
 - **Streamlit** – Interactive UI for visualizing news insights and chatbot responses.
 
@@ -61,10 +61,11 @@ It helps users stay informed with meaningful data visualization and AI-powered Q
 
   ```
 
-  ```
   
 ## 📁 Project Structure
 
+
+```
 newspulse/
 │
 ├── newspulse_pkg/
@@ -86,10 +87,9 @@ newspulse/
 ```
 
 
-```
-
 ## 🔑 Environment Setup
 
+```
 Create a `.env` file in the root directory and add your credentials:
 
 GEMINI_API_KEY=your_google_gemini_api_key
@@ -97,10 +97,9 @@ GNEWS_API_KEY=your_gnews_api_key
 
 ```
 
-```
-
 
 ## ⚙️ Installation & Usage
+```
 
 1️⃣ **Clone the Repository**
 ```bash
